@@ -11,7 +11,5 @@ This project uses **FastAPI** & **Google Gemini AI** to rank resumes against job
 
 ## 🛠️ Installation
 ```bash
-git clone https://github.com/yourusername/resume-ranking.git
-cd resume-ranking
 pip install -r requirements.txt
 uvicorn main:app --reload
